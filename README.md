@@ -4,7 +4,7 @@
 
 ## IT Manager, Web Developer and M.Sc. Computer Science Student  
 
-- 👨‍💻 I'm currently working on IT infrastructure and few full stack web development projects.
+- 👨‍💻 I'm currently working on IT infrastructure and a few full stack web development projects.
 - 📚 I’m currently studying visual perceptual organization in abstract art using eye tracking data.
 - 🍧 Interests: Cloud Computing, Virtualization, Artificial Intelligence and more.
 - 💭 Future Goals: Create HomeLab projects and learn more technologies
