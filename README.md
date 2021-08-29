@@ -1,4 +1,4 @@
-<h1>Hello! I'm Carlo Ram! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="60px"/></h1>
+<h1>Hello, I'm Carlo! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width="60px"/></h1>
 
 <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="20%"/>
 
