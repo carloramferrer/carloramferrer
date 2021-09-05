@@ -4,11 +4,10 @@
 
 ## IT Manager, Web Developer and M.Sc. Computer Science Student  
 
-- 👨‍💻 I'm currently working on IT infrastructure and a few full stack web development projects.
-- 📚 I’m currently studying visual perceptual organization in abstract art using eye tracking data.
-- 🍧 Interests: Cloud Computing, Virtualization, Artificial Intelligence and more.
+- 👨‍💻 I dabble on IT Infrastructure, Cloud Computing, Virtualization, AI/ML, Data Science, and Web Application Development.
+- 📚 I study visual perceptual organization in abstract art using eye tracking data.
 - 💭 Future Goals: Create HomeLab projects and learn more technologies
-- ⚡ Fun fact: I love FPS & MOBA games 👾🎮 and romantic comedies 🎬.
+- ⚡ Fun fact: I love FPS/MOBA games 👾🎮 and romantic comedies 🎬.
 
 ### Languages and Tools 🛠 
 
