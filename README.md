@@ -1,9 +1,9 @@
 <h1>Hello, I'm Carlo!</h1>
 <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="20%"/>
 
-## IT Manager, Web Developer and M.Sc. Computer Science Student  
+## IT Manager, Web Developer, M.Sc. Computer Science  
 
-- 👨‍💻 I dabble on IT Infrastructure, Cloud Computing, Virtualization, AI/ML, Data Science, and Web Application Development.
+- 👨‍💻 I dabble on IT Infrastructure, Edge & Cloud Computing, Virtualization, AI/ML, Data Science, and Web Application Development.
 - 📚 I study visual perceptual organization in abstract art using eye tracking data.
 - 💭 Future Goals: Create HomeLab projects and learn more technologies
 - ⚡ Fun fact: I love FPS/MOBA games 👾🎮 and romantic comedies 🎬.
