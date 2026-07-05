@@ -1,12 +1,22 @@
 <h1>Hello, I'm Carlo!</h1>
 <img align="right" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="20%"/>
 
-## IT Manager, Web Developer, M.Sc. Computer Science  
+## Carlo Ram Ferrer, M.Sc. Computer Science  
 
 - 👨‍💻 I dabble on IT Infrastructure, Edge & Cloud Computing, Virtualization, AI/ML, Data Science, and Web Application Development.
 - 📚 I study visual perceptual organization in abstract art using eye tracking data.
 - 💭 Future Goals: Create HomeLab projects and learn more technologies
 - ⚡ Fun fact: I love FPS/MOBA games 👾🎮 and romantic comedies 🎬.
+
+### Education 📖
+
+- 👨🏽‍🎓 BS Management Information Systems, Specialization in Data Science and Analytics at Ateneo de Manila University (2015-2019)
+- 👨🏽‍🎓 MSc Computer Science at Ateneo de Manila University (2019-2026)
+
+### Experience 👔
+- 👨🏽‍💻 Freelance Software Engineer (2017-2020)
+- 👨🏽‍💼 Internship at Procter & Gamble (2018)
+- 👨🏽‍💼 Distributed Hosting & Edge Computing at Procter & Gamble (2020-2026)
 
 ### Languages and Tools 🛠 
 
